@@ -1,19 +1,44 @@
-# Animator
+# 🌌 Solar System App  
 
-- A Flutter app that lets users create, customize, and store their virtual space experiences with smooth animations and persistent data storage using SharedPreferences.
+Explore the wonders of the Solar System with our beautifully animated and interactive app! This app provides detailed information about all the planets, including animations that bring the Solar System to life.  
 
-- This app provides an interactive and visually appealing experience for users to build their unique space environments, with user preferences saved locally to ensure persistence between sessions.
-## ✨ Features
-- Customizable Spaces: Users can create and personalize virtual spaces with names, colours, and themes.
-- Persistent Data Storage: Spaces are stored locally using SharedPreferences, ensuring user data is saved and accessible across app launches.
-- Smooth Animations: The app utilizes Flutter’s animation framework for fluid and engaging transitions between screens and interactions.
-- Interactive User Interface: A responsive design that adapts to different screen sizes and orientations.
-- Easy Navigation: Simple and intuitive navigation to guide users through space creation and customization.
+## 🌟 Features  
 
-<img src="https://github.com/user-attachments/assets/2a39d04e-f3ed-4498-99d0-19df7d026d29" height=35% width=22%>
-<img src="https://github.com/user-attachments/assets/bcaceb11-0b16-4655-a23e-50f5ed9401a9" height=35% width=22%>
-<img src="https://github.com/user-attachments/assets/05d1c65a-8ba1-4a28-83de-8e43c2571b5c" height=35% width=22%>
-<img src="https://github.com/user-attachments/assets/7f377ffd-528c-47bd-8e88-23229856b68f" height=35% width=22%>
-<img src="https://github.com/user-attachments/assets/f5246626-6cfc-4cd6-b772-76db62c0e260" height=35% width=22%>
+- *Interactive Solar System Animation*  
+  A stunning, real-time animated representation of the Solar System, showing the orbits and rotations of the planets.  
 
+- *Planet Details*  
+  Discover detailed information about each planet, including:  
+  - Size, mass, and distance from the Sun  
+  - Orbital period and rotational period  
+  - Atmospheric composition and temperature  
+  - Unique facts about each planet  
+
+- *Smooth Animations*  
+  - Planetary orbits and rotations are animated seamlessly.  
+  - Tap on a planet to zoom in and view detailed animations of its surface and atmosphere.  
+  - Transition effects between planets and data views.  
+
+- *User-Friendly UI*  
+  - Minimalistic and modern design for easy navigation.  
+  - Swipe gestures for exploring the Solar System.  
+  - Gradient backgrounds resembling the cosmos.  
+
+## 🚀 Technologies Used  
+
+- *Flutter* for cross-platform app development.  
+- *Custom Animations* with Flutter's animation library for smooth transitions.  
+
+
+<img src="https://github.com/user-attachments/assets/8b1d2847-6f61-4cf4-a12e-85dd5c001cac" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/1226affa-f1ce-4737-b52d-2a0441de71d8" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/a8693075-d3f5-49f7-bc85-28f4ad3eb97f" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/bde3bb55-8843-43be-b92a-a33e800da1b6" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/cd3f0012-dae6-4486-85eb-4c0bf96eb708" height=35% width=22%>
+<img src="https://github.com/user-attachments/assets/ce67c783-2625-49ef-8aec-ff867d36d06f" height=35% width=22%>
+
+
+
+
+https://github.com/user-attachments/assets/82978234-1e76-44a5-89b3-3fce9de1f751
 
